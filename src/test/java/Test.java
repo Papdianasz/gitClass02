@@ -2,8 +2,8 @@ public class Test {
     public static void main(String[] args) {
 
 
-        System.out.println("hello word");
-        System.out.println("This is a project version 1");
+
+        System.out.println("This is a project version 3");
         System.out.println("git add.");
         System.out.println("git commit -m message");
         System.out.println("git status");
@@ -29,7 +29,7 @@ public class Test {
 
 //done with version two
 
-//
+//version 3
 
 
 
