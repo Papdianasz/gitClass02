@@ -3,13 +3,8 @@ public class Test {
 
 
 
-        System.out.println("This is a project version 3");
-        System.out.println("git add.");
-        System.out.println("git commit -m message");
-        System.out.println("git status");
-        System.out.println("git init");
-        System.out.println("git log");
-        System.out.println("pwd, ls, cd");
+        System.out.println("This is a project version 4");
+
 
     }
 }
