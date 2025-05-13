@@ -36,6 +36,8 @@ public class Test {
 //open git bash and write
 //git pwd ->git add .->git commit -m "blabla" ->git push
 // the methode is the same when you sync your local Repo with remote changes
+//from remote repo(other person code) if you want to get that code open gitbash
+//pwd-> git log->git fetch->git pull
 
 
 
