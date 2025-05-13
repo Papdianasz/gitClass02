@@ -34,7 +34,8 @@ public class Test {
 //cloned folder should be open
 //if you added something to this code
 //open git bash and write
-//git add .->git push
+//git pwd ->git add .->git commit -m "blabla" ->git push
+// the methode is the same when you sync your local Repo with remote changes
 
 
 
