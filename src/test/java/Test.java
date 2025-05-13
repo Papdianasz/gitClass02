@@ -3,7 +3,7 @@ public class Test {
 
 
 
-        System.out.println("This is a project version 5");
+        System.out.println("This is a project version 6");
 
 
     }
@@ -24,7 +24,17 @@ public class Test {
 
 //done with version two
 
-//version 5
+//version 6 made by person 2
+// for clone the project
+//creat a folder in local >navigate gitbash to this folder
+//open github copy the commit url u wanna clone
+//open gitbash and write:
+// pwd for check->git clone URL->cd folderNamefromGithub/->git log
+//open the cloned folder in intellij file->open
+//cloned folder should be open
+//if you added something to this code
+//open git bash and write
+//git add .->git push
 
 
 
